@@ -2,6 +2,9 @@
 
 The "Delete Permanently" script is a Python application that allows you to securely delete files and directories from your system. It provides a graphical user interface (GUI) built using the `tkinter` library, enabling users to add files and folders to a list and then securely delete them. The script uses the `shred` command for secure file deletion and the `shutil.rmtree` function for securely deleting directories.
 
+## Screenshots
+![Screenshot 2023-07-23 172042](https://github.com/Ymanawat/Delete-Files-Permanently/assets/81252768/9ab64ee3-643a-4f48-b377-000f84f6981a)
+
 ## Prerequisites
 
 The script requires Python 3 and the following standard libraries:
